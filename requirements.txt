@@ -13,3 +13,4 @@ tqdm
 black
 transformers
 plotly
+bitnet
